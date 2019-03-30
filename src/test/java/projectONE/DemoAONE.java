@@ -7,7 +7,9 @@ public class DemoAONE {
 	@Test
 	public void TestA() {
 		
-		System.out.println("Running TESTa...!!!!");
+		System.out.println("staging");
+		System.out.println("commiting ");
+		System.out.println("pushing");
 	}
 
 }
